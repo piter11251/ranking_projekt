@@ -1,0 +1,16 @@
+C:\projekt\Ranking_projekt\Ranking\Ranking\bin\Debug\net5.0\Ranking.exe
+C:\projekt\Ranking_projekt\Ranking\Ranking\bin\Debug\net5.0\Ranking.deps.json
+C:\projekt\Ranking_projekt\Ranking\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.json
+C:\projekt\Ranking_projekt\Ranking\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.dev.json
+C:\projekt\Ranking_projekt\Ranking\Ranking\bin\Debug\net5.0\Ranking.dll
+C:\projekt\Ranking_projekt\Ranking\Ranking\bin\Debug\net5.0\ref\Ranking.dll
+C:\projekt\Ranking_projekt\Ranking\Ranking\bin\Debug\net5.0\Ranking.pdb
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\Ranking.csprojAssemblyReference.cache
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfoInputs.cache
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfo.cs
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\Ranking.csproj.CoreCompileInputs.cache
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\Ranking.dll
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\ref\Ranking.dll
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\Ranking.pdb
+C:\projekt\Ranking_projekt\Ranking\Ranking\obj\Debug\net5.0\Ranking.genruntimeconfig.cache
