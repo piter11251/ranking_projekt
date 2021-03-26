@@ -1,0 +1,9 @@
+Barcelona 200
+Real Madryt 300
+Siup 500
+Manchester United 60
+Liverpool 45
+Legia Warszawa 250
+Lech Poznan 0
+Bayern 200
+Dortmund 300

@@ -12,6 +12,7 @@ namespace Ranking
         public static void MainMenu()
         {
             Team writeTeams = new Team();
+            DisplayScore displayScore = new DisplayScore();
             while (true)
             {
                 Console.Clear();
@@ -29,7 +30,7 @@ namespace Ranking
                         break;
                     case ConsoleKey.D2:
                         Console.Clear();
-                        Console.WriteLine("Opcja 2.");
+                        displayScore.Display();
                         Console.ReadKey();
                         break;
                     case ConsoleKey.D3:
